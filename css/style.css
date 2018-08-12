@@ -53,7 +53,7 @@ p {
 	float: left;
   width: 22.9%;
 	border: #eee 7px solid;
-  padding: 0px;
+  padding: 0 auto;
   display: inline;
 }
 
