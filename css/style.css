@@ -77,10 +77,14 @@ div.fixed-size {
  }
 
 /*copyright*/
-#copyright footer .clearfix:after {
+#copyright footer {
  	position: relative;
  	bottom: auto;
  	left: 820px;
  	font-size: 10px;
   clear: both;
+ }
+
+ .clearfix:after {
+   content= "."
  }
