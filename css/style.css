@@ -55,8 +55,8 @@ p {
 	border: #eee 6px solid;
   padding: 0 auto;
   display: inline;
-  height: auto;
-  
+  height: 240px
+
 }
 
 [class*="col-"] {
