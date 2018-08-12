@@ -19,11 +19,15 @@ body {
 
 /* Write all remaining styles here */
 
+#logo {
+	font-size: 40px;
+	font-family: Baskerville;
+	color: rgba(141, 163, 156, 1);
+}
+
 a:link {
     text-decoration: none;
-    color: rgba(141, 163, 156, 1);
-    font-size: 40px;
-    font-family: Baskerville;
+    color: rgba(141, 163, 156, 1)
 }
 
 a:visited {
