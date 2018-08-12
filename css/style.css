@@ -54,6 +54,7 @@ p {
   width: 22.9%;
 	border: #eee 7px solid;
   padding: 0 auto;
+  display: inline;
 }
 
 [class*="col-"] {
