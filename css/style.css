@@ -82,6 +82,7 @@ div.fixed-size {
  	bottom: auto;
  	left: 820px;
  	font-size: 10px;
+  clear: both;
  }
 
  .clearfix:after {
