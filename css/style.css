@@ -87,6 +87,6 @@ div.fixed-size {
 
  .clearfix:after {
    content:"the internet is here";
-   display:block
+   display:block;
    clear: both;
  }
