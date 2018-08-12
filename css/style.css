@@ -89,4 +89,5 @@ div.fixed-size {
    content:"the internet is here";
    display:block;
    clear: both;
+   visibility: hidden;
  }
