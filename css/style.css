@@ -77,7 +77,7 @@ div.fixed-size {
  }
 
 /*copyright*/
-footer {
+#copyright footer {
  	position: relative;
  	bottom: auto;
  	left: 820px;
