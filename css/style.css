@@ -32,7 +32,9 @@ a:link {
 a:visited {
   color: rgba(141, 163, 156, 1);
 }
-
+a:hover {
+  color: rgba(100, 116, 111, 1)
+}
 h2 {
 	font-family: Baskerville;
 	color: rgba(141, 163, 156, 1);
